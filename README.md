@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Abdul Rehman’s github ranking](https://github-readme-ranking.vercel.app/api/rank?username=AbdulRehmanWarraich&country_code=pakistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+
 <!--
 **AbdulRehmanWarraich/AbdulRehmanWarraich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
